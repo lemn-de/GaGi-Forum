@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="forum_rest" />
+        <module name="forum_common" />
+        <module name="forum_portal" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="forum_common" target="1.8" />
+      <module name="forum_parent" target="1.8" />
+      <module name="forum_portal" target="1.8" />
+      <module name="forum_rest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="forum_common" options="" />
+      <module name="forum_parent" options="-parameters" />
+      <module name="forum_portal" options="" />
+      <module name="forum_rest" options="" />
+    </option>
+  </component>
+</project>

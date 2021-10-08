@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1236b3a2-1c1d-41f6-a84b-38fd02bc96ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:\Program Files\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yWE9ROG30f6b7G87JRck0SYjuu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../My_Java/Java_test" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\My_project\gra_design\forum_portal\src\main\resources" />
+      <recent name="E:\My_project\gra_design\forum_admin\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ForumRestApplicationTests.postsSelect">
+    <configuration name="ForumCommonApplicationTests.postsSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="forum_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.forum.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.forum.common" />
+      <option name="MAIN_CLASS_NAME" value="com.forum.common.ForumCommonApplicationTests" />
+      <option name="METHOD_NAME" value="postsSelect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForumRestApplicationTests.posts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="forum_rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.forum.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.forum.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.forum.rest.ForumRestApplicationTests" />
+      <option name="METHOD_NAME" value="posts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForumRestApplicationTests.postsSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="forum_rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.forum.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.forum.rest" />
+      <option name="MAIN_CLASS_NAME" value="com.forum.rest.ForumRestApplicationTests" />
+      <option name="METHOD_NAME" value="postsSelect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForumCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="forum_common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.forum.common.ForumCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForumPortalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="forum_portal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.forum.portal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.forum.portal.ForumPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForumRestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="forum_rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.forum.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.forum.rest.ForumRestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ForumPortalApplication" />
+        <item itemvalue="Spring Boot.ForumRestApplication" />
+        <item itemvalue="JUnit.ForumRestApplicationTests.postsSelect" />
+        <item itemvalue="JUnit.ForumRestApplicationTests.posts" />
+        <item itemvalue="JUnit.ForumCommonApplicationTests.postsSelect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1236b3a2-1c1d-41f6-a84b-38fd02bc96ad" name="Default Changelist" comment="" />
+      <created>1632358793148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632358793148</updated>
+      <workItem from="1632358794236" duration="17388000" />
+      <workItem from="1632491009713" duration="218000" />
+      <workItem from="1632491239675" duration="14109000" />
+      <workItem from="1632533720517" duration="15347000" />
+      <workItem from="1632551222355" duration="20151000" />
+      <workItem from="1632622722663" duration="17927000" />
+      <workItem from="1632906497031" duration="26573000" />
+      <workItem from="1633358889582" duration="5648000" />
+      <workItem from="1633504044440" duration="112000" />
+      <workItem from="1633517987324" duration="16078000" />
+      <workItem from="1633577328660" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

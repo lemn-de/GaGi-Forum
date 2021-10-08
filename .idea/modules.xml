@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GaGi_forum.iml" filepath="$PROJECT_DIR$/.idea/GaGi_forum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forum_common/forum_common.iml" filepath="$PROJECT_DIR$/forum_common/forum_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forum_parent/forum_parent.iml" filepath="$PROJECT_DIR$/forum_parent/forum_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forum_portal/forum_portal.iml" filepath="$PROJECT_DIR$/forum_portal/forum_portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forum_rest/forum_rest.iml" filepath="$PROJECT_DIR$/forum_rest/forum_rest.iml" />
+    </modules>
+  </component>
+</project>
